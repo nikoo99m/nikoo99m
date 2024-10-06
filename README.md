@@ -10,7 +10,7 @@
 
 ## About Me
 
-🎓 I hold a BSc in Applied Mathematics and an MSc in Computer Science,  
+🎓 I hold a BSc in Applied Mathematics and a MSc in Computer Science,  
 blending analytical precision with technical expertise.  
 
 🔍 My journey spans from solving complex mathematical problems  

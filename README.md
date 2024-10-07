@@ -42,7 +42,7 @@ to tackle challenges in computing, especially in fields like AI and data science
 ![Agile](https://img.shields.io/badge/Agile-28B463?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white)
 
-## Streak Stats
+## 🔥 Streak Stats
 
 <div align="center">
   
@@ -50,11 +50,11 @@ to tackle challenges in computing, especially in fields like AI and data science
   
 </div>
 
-## My GitHub Contributions
+## 📊 My GitHub Contributions
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikoo99m&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Most Used Languages
+## 🌐 Most Used Languages
 
 <div align="center">
   

@@ -1,4 +1,4 @@
-# Hi there! My name is Nikoo, and I am a Computer Scientist 😊👋
+# Hi there! My name is Nikoo, and I am a Software Developer 😊👋
 
 <div align="center">
 

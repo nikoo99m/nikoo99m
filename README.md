@@ -8,7 +8,7 @@
 
 </div>
 
-## About Me
+## 🌟 About Me
 
 🎓 I hold a BSc in Applied Mathematics and a MSc in Computer Science,  
 blending analytical precision with technical expertise.  

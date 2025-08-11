@@ -1,4 +1,4 @@
-# Hi there! My name is Nikoo, and I am a Software Developer 😊👋
+# Hi there! My name is Nikoo, and I am a Data Analyst 😊👋
 
 <div align="center">
 
@@ -10,20 +10,17 @@
 
 ## 🌟 About Me
 
-🎓 I hold a BSc in Applied Mathematics and a MSc in Computer Science,  
-blending analytical precision with technical expertise.  
+🎓 I hold a BSc in Applied Mathematics and an MSc in Computer Science, combining strong analytical skills with technical expertise.
 
-🔍 My journey spans from solving complex mathematical problems  
-to developing innovative software solutions.  
+🔍 My journey has taken me from solving complex mathematical problems to deriving actionable insights from data and developing analytical solutions.
 
-💬 Ask me about programming 👩‍💻 and mathematics 📟.
+💬 Ask me about data analysis, programming, and statistics.
 
-💡 I am passionate about leveraging my background in mathematics  
-to tackle challenges in computing, especially in fields like AI and data science.  
+💡 I am passionate about applying my mathematical and computing background to extract meaningful patterns, build data-driven strategies, and support decision-making in fields like AI, data science, and business analytics.
 
-📫 You can reach me at nmogha02@student.bbk.ac.uk.
+📫 You can reach me at nikooo.m99@gmail.com
 
-🤝 Let's connect and explore the world of algorithms and technology together!
+🤝 Let’s connect and explore how data can drive innovation and impact.
 
 ## 🛠️ Technologies and Tools
 
